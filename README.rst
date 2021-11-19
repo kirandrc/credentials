@@ -96,3 +96,8 @@ Our real-time conversations are on Slack_.
 
 .. _`discussion forums`: https://discuss.openedx.org
 .. _Slack: http://openedx.slack.com/
+
+:UPDATE 
+
+kiran chauhan
+
